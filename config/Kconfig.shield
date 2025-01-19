@@ -1,0 +1,8 @@
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_HUGINN
+    def_bool $(shields_list_contains,huginn)
+
+config SHIELD_MUNINN
+    def_bool $(shields_list_contains,muninn)

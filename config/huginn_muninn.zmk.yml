@@ -1,0 +1,11 @@
+file_format: "1"
+id: huginn_muninn
+name: Huginn Muninn
+type: shield
+url: https://github.com/kkruit/huginn_muninn
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - huginn
+  - muninn
