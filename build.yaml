@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: huginn_muninn_huginn
+    shield: huginn
   - board: seeeduino_xiao_ble
-    shield: huginn_muninn_muninn
+    shield: muninn
